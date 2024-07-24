@@ -1,0 +1,13 @@
+.heroBakcground {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 1280px;
+    height: 700px;
+    overflow: visible;
+    z-index: 0;
+  }
+  .icon6 {
+    width: 100%;
+    height: 100%;
+  }

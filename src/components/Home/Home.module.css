@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+
+.root {
+  position: relative;
+  width: 1280px;
+  height: 700px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-image: linear-gradient(90deg, #222d4eff 0%, #2b3a67ff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  overflow: hidden;
+}
+

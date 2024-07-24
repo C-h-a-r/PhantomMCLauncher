@@ -1,0 +1,45 @@
+.vector7 {
+    position: absolute;
+    left: 29.8438%;
+    right: 38.9063%;
+    top: 44.4286%;
+    bottom: 42.9939%;
+    overflow: visible;
+}
+
+.icon7 {
+    width: 100%;
+    height: 100%;
+}
+
+.pLAY {
+    color: #fff;
+    font-size: 48px;
+    font-family: "Lalezar", system-ui;
+    letter-spacing: 0.05em;
+    position: absolute;
+    left: 40.3125%;
+    right: 49.4057%;
+    top: 42.8571%;
+    bottom: 44.0866%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+._121FABRIC {
+    color: #fff;
+    font-size: 18px;
+    font-family: "Lalezar", system-ui;
+    letter-spacing: 0.05em;
+    position: absolute;
+    left: 40.9824%;
+    right: 50.0687%;
+    top: 52.2567%;
+    bottom: 43.3913%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
