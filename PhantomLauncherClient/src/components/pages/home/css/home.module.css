@@ -7,3 +7,19 @@
     z-index: 1;
 }
 
+.home_featured {
+    justify-content: center;
+    position: absolute;
+    top: 400px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+
+a {
+    text-decoration: none;
+    color: #FFFF;
+}

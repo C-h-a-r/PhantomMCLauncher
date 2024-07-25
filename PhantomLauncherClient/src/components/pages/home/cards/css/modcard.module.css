@@ -1,0 +1,38 @@
+
+.mod_card {
+    width: 192px;
+    height: 237px;
+    background-image: url("../assets/mod_card.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    transition: all 0.1s ease-in-out;
+    text-align: center;
+    word-wrap: break-word;
+    
+}
+
+.mod_card:hover {
+    transform: scale(1.04);
+}
+
+.mod_card_image {
+    max-width: 100px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.mod_card_title {
+margin-top: -5px;
+font-size: 23px;
+}
+
+
+.mod_card_description {
+    margin-top: -10px;
+    opacity: 0.6;
+    width: 200px;
+    word-wrap: break-word;
+    font-weight: 100;
+    font-size: 15px;
+}
