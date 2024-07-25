@@ -1,0 +1,21 @@
+.settings_btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 42.54px;
+    height: 42.54px;
+    background-image: url("../assets/settings_btn.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.1s ease-in-out;
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+
+.settings_btn:hover {
+    transform: scale(1.05);
+}

@@ -1,0 +1,39 @@
+.navbar {
+    width: 95%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;  
+    align-items: center;
+    margin-top: 30px;
+}
+
+.navbar_options {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 65%;
+}
+
+
+.navbar_options_logo_btn {
+    background-color: transparent;
+    outline: none;
+    border: none;
+}
+
+.navbar_options_logo_btn:hover {
+    transform: scale(1.09);
+}
+.navbar_options_logo {
+    max-width: 50px;
+    border: 5px solid #43518A;
+    border-radius: 10px;
+}
+
+
+.navbar_controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 8%;
+}

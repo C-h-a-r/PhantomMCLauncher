@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+#root {
+  background: rgb(34, 45, 78);
+  background: -moz-linear-gradient(90deg, rgba(34, 45, 78, 1) 0%, rgba(43, 58, 103, 1) 100%);
+  background: -webkit-linear-gradient(90deg, rgba(34, 45, 78, 1) 0%, rgba(43, 58, 103, 1) 100%);
+  background: linear-gradient(90deg, rgba(34, 45, 78, 1) 0%, rgba(43, 58, 103, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#222d4e", endColorstr="#2b3a67", GradientType=1);
+  width: 1280px;
+  height: 700px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  border: 5px solid #343F6C;
+  color: #FFFF;
+  font-family: "Lalezar", system-ui;
+  overflow-x: hidden;
+}

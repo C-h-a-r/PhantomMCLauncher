@@ -1,0 +1,19 @@
+.instances_btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 169.88px;
+    height: 42.54px;
+    background-image: url("../assets/instances_btn.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    text-align: center;
+    text-decoration: none;
+    color: #FFFF;
+    transition: all 0.1s ease-in-out;
+}
+
+.instances_btn:hover {
+    transform: scale(1.05);
+}

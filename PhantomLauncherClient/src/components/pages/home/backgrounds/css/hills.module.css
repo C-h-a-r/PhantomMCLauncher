@@ -1,0 +1,23 @@
+.home_hills_container {
+    background: rgb(72, 98, 171);
+    background: -moz-linear-gradient(0deg, rgba(72, 98, 171, 1) 0%, rgba(72, 98, 171, 0) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(72, 98, 171, 1) 0%, rgba(72, 98, 171, 0) 100%);
+    background: linear-gradient(0deg, rgba(72, 98, 171, 1) 0%, rgba(72, 98, 171, 0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#4862ab", endColorstr="#4862ab", GradientType=1);
+    width: 100%;
+    height: 80%;
+    position: absolute;
+    bottom: 0;
+    z-index: 0;
+}
+
+.home_hills {
+    background-image: url("../assets/backgorund_hills.png");
+    background-repeat: no-repeat;
+    display: block;
+    width: 100%;
+    height: 482px;
+    position: absolute;
+    bottom: 0;
+    z-index: 0;
+}
